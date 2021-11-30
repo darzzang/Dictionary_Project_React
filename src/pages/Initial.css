@@ -1,0 +1,9 @@
+/* .main .visualArea .dimArea{position:absolute; z-index:3; width:100%; height:100%; background:rgba(38, 67, 126, 0.9); top:0; left:0; right:0; bottom:0;}
+.main .visualArea{position:fixed; width:100%; height:100%; background:url(../img/bg1.jpg) no-repeat bottom center; background-size:cover; display: flex; align-items: center; justify-content: center;}
+.main .visualArea .textArea{position:relative; z-index:5; text-align:center;}
+.main .visualArea .textArea p{margin-bottom:3em;}
+.main h1{color:#fff; text-align:center; font-size:3em; }
+.main .btnArea{text-align:center; width:20%; margin:0 auto; }
+.main .btnArea a{display:block; width:100%; border:1px solid #fff; color:#fff; border-radius:10px; padding:0.75em; text-decoration:none; transition: 0.3s;}
+.main .btnArea a:hover{background:#fff; color:rgba(38, 67, 126, 0.9)}
+.main footer{border-top:0; color:#fff;} */
