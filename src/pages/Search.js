@@ -54,6 +54,8 @@ const Search = () => {
       </div>
       <div className='wrap-container'>
           검색 결과 : {query ? searchUI.length : "0"} 개</div>
+        <div className='result-container'>
+          {query ? searchUI : ""}
         </div>
       </div>
     </div>
