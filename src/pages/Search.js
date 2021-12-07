@@ -53,9 +53,7 @@ const Search = () => {
           value={query} onChange={handleChange}/>
       </div>
       <div className='wrap-container'>
-        <div className='count'></div>
-        <div className='container'>
-          {searchUI}
+          검색 결과 : {query ? searchUI.length : "0"} 개</div>
         </div>
       </div>
     </div>
