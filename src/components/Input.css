@@ -8,11 +8,11 @@ input{
     padding-left: 15px;
     font-size: 1.2rem;
     font-weight: bold;
-    border: 2px solid rgb(224, 224, 224);
+    border: 2px solid rgba(0, 0, 0, 0.616);
     color: #05111b;
 }
 input::placeholder{
-    color: rgb(77, 77, 77);
+    color: rgba(0, 0, 0, 0.315);
     font-size: 1.2rem;
     font-weight: bold;
 }
