@@ -11,7 +11,6 @@ const App = () => {
       <Routes>
         <Route path='/' element={<Search />} />
         {/* <Route path='/' element={<Initial/>}/> */}
-        <Route path='/detail' element={<Detail />} />
       </Routes>
     </div>
   );
