@@ -3,7 +3,7 @@
     width: 100%;
     /* height: 300px; */ 
     margin-bottom: 10px;
-    background: rgb(251, 253, 215);
+    background: #e5e5d4;
     display: inline-block; /* 컬럼 짤림 방지*/
 }
 

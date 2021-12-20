@@ -1,12 +1,12 @@
 .search-container {
-    background-color: rgb(247, 228, 178);
+    background-color: rgb(255, 255, 255);
 }
 
 .title{
     width: 100%;
     /* margin-top: 30px; */
     margin-bottom: 10px;
-    background: rgba(255, 153, 0, 0.205);
+    background: #e5e5d4;
     text-align: center;
     font-size: 2em;
     vertical-align: middle;
@@ -27,7 +27,7 @@ img {
 .search-box{
     width: 100%;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .wrap-container {

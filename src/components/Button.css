@@ -1,15 +1,7 @@
 .Button {
-    /* all: unset;
-    color: white;
-    cursor: pointer;
-    border-radius: 5px;
-    font-weight: bold;
-    margin-left: 10px;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center; */
     all: unset;
-    background-color: rgb(135, 235, 193);
+    background-color: rgb(88, 67, 47);
+    color: white;
     cursor: pointer;
     width: 100px;
     height: 30px;
@@ -23,7 +15,7 @@
 
 .Button:hover{
     /* opacity: 0.7; */
-    background-color: rgb(215, 170, 245);
+    background-color: rgb(161, 122, 84);
 }
 
 .medium{
